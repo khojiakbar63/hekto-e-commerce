@@ -13,4 +13,4 @@
 
 ```GitHub:``` https://github.com/khojiakbar63
 
-```Instagram:``` https://www.instagram.com/hojiakbar7796/
+```Instagram:``` khojiakbar1199
