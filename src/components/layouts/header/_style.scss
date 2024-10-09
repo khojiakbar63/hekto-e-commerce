@@ -1,0 +1,11 @@
+.active{
+    color: #7E33E0 !important;
+    border-bottom: #7E33E0 solid 2px !important;
+}
+
+.link-class {
+    border-bottom: 2px solid white;
+    &:hover{
+      border-bottom: #7E33E0 2px solid;  
+    }
+}

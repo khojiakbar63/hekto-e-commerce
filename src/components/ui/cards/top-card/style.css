@@ -1,0 +1,14 @@
+.circle-card {
+  height: 269px;
+  width: 269px;
+  border-radius: 100% !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.1s ease-in-out;
+    cursor: pointer;
+  &:hover {
+    box-shadow: #9675e4 -5px 5px, -5px 5px !important;
+  }
+
+}
